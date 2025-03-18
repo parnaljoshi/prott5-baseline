@@ -2,7 +2,8 @@
 
 Run scripts 01_ to 05_ one after the other using data from example_data
 
-The file generated at the end of this workflow will be plugged here instead of `blastp.out` 
+The file generated at the end of this workflow will be plugged [here](https://github.com/yuxjiang/CAFA2) instead of `blastp.out` in the command:
+
 ``` bash
 B = pfp_importblastp('blastp.out');
 ```
